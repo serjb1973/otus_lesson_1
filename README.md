@@ -1,1 +1,1 @@
-# otus_lesson_1
+# Create Ubuntu 22.04 VM
