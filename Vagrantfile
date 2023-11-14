@@ -3,9 +3,7 @@ MACHINES = {
   # Указываем имя ВМ "kernel update"
   :"kernel-update" => {
               #Какой vm box будем использовать
-              #:box_name => "centos/7",
-              #Test of new iso
-              :box_name => "serjb73/centos-7",
+              :box_name => "centos/7",
               #Указываем количество ядер ВМ
               :cpus => 2,
               #Указываем количество ОЗУ в мегабайтах
